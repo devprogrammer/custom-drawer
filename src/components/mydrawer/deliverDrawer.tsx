@@ -89,7 +89,7 @@ export const DeliverDrawer = ({ data={}, open, onClose, onDone }: Props) => {
         style={{
           overflow: 'auto',
           width: '100%',
-          height: '60%',
+          height: '540px',
           background: '#fff',
           borderRadius: '30px 30px 0 0'
         }}
