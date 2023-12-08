@@ -14,7 +14,6 @@ function App() {
 
   return (
     <div className="App">
-
       <div className='w-full h-screen' onClick={close}>
         <GoogleMapsComponent />
       </div>
